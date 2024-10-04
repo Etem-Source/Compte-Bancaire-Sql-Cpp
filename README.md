@@ -9,8 +9,6 @@ Ce projet permet de gérer les clients associés a des comptes bancaires ou se c
 * Afficher tout les clients + comptes
 * Afficher un client + compte en particulier
 
-Par défaut, le mot de passe pour l'admin est : `123456`
-
 ## 💡 Prérequis
 * [G++ Compileur](https://sourceforge.net/projects/mingw/)
   * `sudo apt install g++`
